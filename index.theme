@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=BlueGTK
+Comment=A GTK theme based off of the Catppuccin Mocha Standard Teal Dark theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=BlueGTK
+MetacityTheme=BlueGTK
+IconTheme=Adwaita
+CursorTheme=Catppuccin-cursors
+ButtonLayout=close,minimize,maximize:menu
